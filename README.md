@@ -1,6 +1,8 @@
 # 📝 Task Tracker (CLI)
 
-🔗 **Project URL**: [https://github.com/Despair-code792/To-Do-List](https://github.com/Despair-code792/To-Do-List)
+🔗 **GitHub Repository URL**: [https://github.com/Despair-code792/To-Do-List](https://github.com/Despair-code792/To-Do-List)
+
+📄 **Project Page URL**: This is a command-line project and does not have a deployed web page. You can run it locally using the instructions below.
 
 A simple command-line Task Tracker built in Java. It allows users to manage daily tasks via terminal/console input and saves them in a local `tasks.json` file for persistence.
 
