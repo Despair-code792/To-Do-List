@@ -1,6 +1,6 @@
 # 📝 Task Tracker (CLI)
 
-🔗 **Project URL**: [https://github.com/your-username/task-tracker-cli](https://github.com/Despair-code792/To-Do-List/)
+🔗 **Project URL**: (https://github.com/Despair-code792/To-Do-List/)
 
 A simple command-line Task Tracker built in Java...
 
